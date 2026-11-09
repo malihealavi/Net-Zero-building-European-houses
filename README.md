@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images\Capture.PNG" width="400"><br>
+      <img src="images/Capture.PNG" width="400"><br>
       <sub>Renovation Measures Before and After Grouping</sub>
     </td>
     <td align="center">
@@ -41,7 +41,7 @@
     </td>
     <td align="center">
       <img src="images/LIME.png" width="400"><br>
-      <sub>XGBoost lime Importance</sub>
+      <sub>XGBoost lime Analysis</sub>
     </td>
   </tr>
 </table>
