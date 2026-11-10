@@ -16,21 +16,21 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/Capture.png" width="400"><br>
+      <img src="images/Capture.PNG" width="400"><br>
       <sub>Renovation Measures Before and After Grouping</sub>
     </td>
     <td align="center">
-      <img src="images/Capture1.png" width="400"><br>
+      <img src="images/Capture1.PNG" width="400"><br>
       <sub>Energy and CO₂ With and Without Renovation</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/Capture2.png" width="400"><br>
+      <img src="images/Capture2.PNG" width="400"><br>
       <sub>Energy Ratings by Building Element</sub>
     </td>
     <td align="center">
-      <img src="images/Capture3.png" width="400"><br>
+      <img src="images/Capture3.PNG" width="400"><br>
       <sub>Feature Correlation with Final Energy Consumption</sub>
     </td>
   </tr>
