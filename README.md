@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/Capture.PNG" width="400"><br>
+      <img src="images/Capture.png" width="400"><br>
       <sub>Renovation Measures Before and After Grouping</sub>
     </td>
     <td align="center">
