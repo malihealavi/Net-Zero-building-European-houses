@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="images/shap.png" width="400"><br>
+      <img src="images/SHAP.png" width="400"><br>
       <sub>CatBoost SHAP Analysis</sub>
     </td>
     <td align="center">
